@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#defh1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
+    line-height: 4.2rem;
+    
+
+}
+
+#heading1{
+    height:200px;
+    padding-top: 80px;
+}
+
+#deforestcontent{
+    width: 900px;
+    height:600px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    position:relative;
+    padding-left: 10px;
+
+    
+}
+
+#dataimage{
+    width:550px;
+    height: 800px;
+    background-color: aqua;
+    position: relative;
+    bottom: 120px;
+    
+}
+
+#table{
+    width:550px;
+    height: 800px;
+}
+
+.firstparagraph{
+    display: inline-block;
+}
+
+
+.deforestvideo{
+    height: 400px;
+    width:780px;
+    position: relative;
+    left:360px;
+    
+}
+
+.ngotree{
+    width:1150px;
+    height:400px;
+    position:relative;
+    left:200px;
+}
+
+.tree{
+    display:inline-block;
+    width:250px;
+    height:200px;
+    
+}
+
+#tree1{
+    position: absolute;
+    
+    height:170px;
+    width:295px;
+}
+
+#treeimage1{
+    position: absolute;
+    
+    height:170px;
+    width:295px;
+    margin-top:100px;
+  
+}
+
+#tree2{
+    position:relative;
+    left:430px;
+    
+    margin-top:50px;
+    height:76px;
+}
+
+#treeimage2{
+    position:relative;
+    margin-top:100px;
+    height:76px;
+}
+
+#tree3{
+    position:absolute;
+    right:60px;
+    top:57px;
+    margin-top:100px;
+    height:80px;
+  
+}
+
+#treeimage3{
+    
+    height:80px;
+}
+
+#footer1{
+    background-color: grey;
+    width:1470px;
+    text-align: center;
+}
+
+#videoi{
+    height: 400px;
+    width:790px;
+}
+
+.quote1{
+    width:1200px;
+    height:400px;
+    background-color: rgba(red, green, blue, 0.5);
+}
+
+.treei{
+    height:170px;
+    width:295px;
+}
